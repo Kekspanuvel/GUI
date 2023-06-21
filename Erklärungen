@@ -4,13 +4,10 @@ Was ist eine GUI (Erläuterung)?
   die Benutzern eine intuitive und interaktive Interaktion ermöglicht.
 
 Elemente:
-  - Fenstern
-  - Schaltflächen
+  - Textlabels
+  - Textboxen
+  - Inputboxen
+  - Schaltflächen (Buttons)
+  - Radiobuttons
+  - Checkbottons
   - Menüs
-  - Textfeldern
-  - Listen
-  - Kontrollkästchen
-  - Fortschrittsbalken
-  - Symbolen
-  - Icons
- 
